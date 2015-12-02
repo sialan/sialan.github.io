@@ -4,15 +4,15 @@ title: About Me
 permalink: /about/
 ---
 
-![desk](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png)
-
 I'm Alan, I'm an Engineer, Entrepreneur, and [Data Scientist](http://datascopeanalytics.com/blog/what-is-a-data-scientist/). That's me in the middle there, I'm the guy with the awesome hair!
 
-I love things like. Add me on LinkedIn or follow me on Instagram, Twitter, or Snapchat. I also run a YouTube channel where I post stuff every Wednesday, take a look!
+![desk](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png)
+
+I love things like...Add me on LinkedIn or follow me on Instagram, Twitter, and Snapchat. I also run a YouTube channel where I post stuff every Wednesday, take a look!
 
 Checkout some of the other things I'm working on right now:
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+* [millenialanalyst.com](http://millenialanalyst.com)
+* [Tippd Brands](http://jekyllrb.com)
+* [Sports Analytics Startup](http://refills.bourbon.io/)
+* [Wearables Fitness Startup](http://type-scale.com/)
