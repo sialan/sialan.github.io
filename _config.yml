@@ -20,11 +20,11 @@ ajaxify_contact_form: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: alansi
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
-facebook_comments: true
+facebook_comments: 
 facebook_appid: 
 facebook_comments_number: 10
 
