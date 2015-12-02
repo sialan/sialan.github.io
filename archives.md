@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-permalink: /about/
+title: Archived Posts
+permalink: /archives/
 ---
 
 This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
