@@ -4,7 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
+_![desk](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png)_
+
+I'm Alan, I'm an Engineer, Entrepreneur, and Data Scientist. [John Otander](http://johnotander.com)
 ([@4lpine](https://twitter.com/4lpine)).
 
 Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
