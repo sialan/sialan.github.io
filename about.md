@@ -6,14 +6,11 @@ permalink: /about/
 
 ![desk](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png)
 
-I'm Alan, I'm an Engineer, Entrepreneur, and Data Scientist. [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+I'm Alan, I'm an Engineer, Entrepreneur, and [Data Scientist](http://datascopeanalytics.com/blog/what-is-a-data-scientist/). That's me in the middle there, I'm the guy with the awesome hair!
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+I love things like. Add me on LinkedIn or follow me on Instagram, Twitter, or Snapchat. I also run a YouTube channel where I post stuff every Wednesday, take a look!
 
-Thanks to the following:
+Checkout some of the other things I'm working on right now:
 
 * [BASSCSS](http://basscss.com)
 * [Jekyll](http://jekyllrb.com)
