@@ -13,6 +13,6 @@ I love things like...Add me on LinkedIn or follow me on Instagram, Twitter, and 
 Checkout some of the other things I'm working on right now:
 
 * [millenialanalyst.com](http://millenialanalyst.com)
-* [Tippd Brands](http://jekyllrb.com)
-* [Sports Analytics Startup](http://refills.bourbon.io/)
-* [Wearables Fitness Startup](http://type-scale.com/)
+* [Tippd Brands](http://tippdbrands.com)
+* [quantfield.com](http://quantfield.com/)
+* [ScribeFit](http://scribefit.com/)
